@@ -1,0 +1,9 @@
+{
+  "name": "docs-theme",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:nfrasser/palette-docs-theme.git",
+  "author": "Nick Frasser <nfrasser@palettegear.com>",
+  "license": "UNLICENSED",
+  "private": true
+}
