@@ -5,5 +5,8 @@
   "repository": "git@github.com:nfrasser/palette-docs-theme.git",
   "author": "Nick Frasser <nfrasser@palettegear.com>",
   "license": "UNLICENSED",
-  "private": true
+  "private": true,
+  "dependencies": {
+    "documentation": "^8.0.0"
+  }
 }
